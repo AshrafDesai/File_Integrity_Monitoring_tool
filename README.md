@@ -36,8 +36,8 @@ FILE_PATH = "path/to/target/file"
 Open a terminal or command prompt.
 Navigate to the directory containing the monitoring system files.
 
-Run the command
-# python main.py
+Run the command : 
+python main.py
 
 Note: Make sure to update the paths in the config.ini file according to your file locations.
 
