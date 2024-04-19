@@ -1,4 +1,6 @@
 # File Integrity Monitoring Using YARA Rules
+![image](https://github.com/AshrafDesai/File_Integrity_Monitoring_tool/assets/132386307/ef78987d-9208-41f5-b0ea-1150dc336cca)
+
 
 Overview:
 
