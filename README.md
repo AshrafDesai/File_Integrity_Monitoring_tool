@@ -37,6 +37,6 @@ Navigate to the directory containing the monitoring system files.
 Run the command
 # python main.py
 
-# Note: Make sure to update the paths in the config.ini file according to your file locations.
+Note: Make sure to update the paths in the config.ini file according to your file locations.
 
 Feel free to modify and expand this readme.txt file based on your specific requirements and use case!
